@@ -2,7 +2,7 @@
 
 Explanation of content.
 
-### Nested Tags
+### Nested Tags are fun
 
 Tags can be nested as demonstrated in the navigation snippet below.
 
